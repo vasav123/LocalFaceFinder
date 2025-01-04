@@ -1,0 +1,3 @@
+*.pkl
+photos_dir/*
+training_images/*
